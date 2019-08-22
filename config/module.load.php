@@ -1,0 +1,21 @@
+<?php 
+	return array(
+	   'MelisAssetManager',
+		'MelisEngine',
+		'MelisFront',
+		'Litfirecms',
+		'MelisCalendar',
+		'MelisCms',
+		'MelisCmsNews',
+		'MelisCmsPageAnalytics',
+		'MelisCmsPageHistoric',
+		'MelisCmsProspects',
+		'MelisCmsSiteRobot',
+		'MelisCmsSlider',
+		'MelisDesign',
+		'MelisMarketPlace',
+		'MelisMessenger',
+		'MelisToolCreator',
+		'Authors',
+		'AuthorsMulti',
+	);
